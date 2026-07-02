@@ -1,4 +1,4 @@
-# ChatGPT 镜像站安全吗？不要只看能不能打开
+<img width="1035" height="253" alt="image" src="https://github.com/user-attachments/assets/19f664a2-97c7-497f-a6c9-bc5d33bed55c" /># ChatGPT 镜像站安全吗？不要只看能不能打开
 
 > 更新时间：2026/07/02 · 账号B · 安全向
 
@@ -60,6 +60,13 @@ ChatGPT 镜像站的技术原理很简单：搭一个前端页面，后端调用
 满足不了的，不管多便宜都别碰。你省下来的钱不够你处理一次数据泄露的麻烦。
 
 ---
+
+## 长期更新版
+
+这篇内容后续会继续整理到网站教程中，方便统一查看：
+
+- ChatGPT 中文教程站：https://www.chinachatgpt.com/
+- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
 
 ## 我自己在用的入口
 
