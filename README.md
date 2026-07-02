@@ -1,4 +1,4 @@
-<img width="1035" height="253" alt="image" src="https://github.com/user-attachments/assets/19f664a2-97c7-497f-a6c9-bc5d33bed55c" /># ChatGPT 镜像站安全吗？不要只看能不能打开
+<img width="1451" height="854" alt="image" src="https://github.com/user-attachments/assets/33b21272-cae9-49d4-87e6-d61e819545a1" /><img width="1035" height="253" alt="image" src="https://github.com/user-attachments/assets/19f664a2-97c7-497f-a6c9-bc5d33bed55c" /># ChatGPT 镜像站安全吗？不要只看能不能打开
 
 > 更新时间：2026/07/02 · 账号B · 安全向
 
@@ -61,12 +61,6 @@ ChatGPT 镜像站的技术原理很简单：搭一个前端页面，后端调用
 
 ---
 
-## 长期更新版
-
-这篇内容后续会继续整理到网站教程中，方便统一查看：
-
-- ChatGPT 中文教程站：https://www.chinachatgpt.com/
-- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
 
 ## 我自己在用的入口
 
@@ -81,6 +75,15 @@ ChatGPT 镜像站的技术原理很简单：搭一个前端页面，后端调用
 > ⚠️ 本文不是 OpenAI 官方内容。推荐的平台为第三方服务，使用前请自行评估风险。
 
 ---
+
+---
+
+## 长期更新版
+
+这篇内容后续会继续整理到网站教程中，方便统一查看：
+
+- ChatGPT 中文教程站：https://www.chinachatgpt.com/
+- 相关主题：ChatGPT 中文版、Codex、API 中转、AI 工具教程
 
 **按需求选入口：**普通使用 → [ZEOGPT](https://www.zeogpt.com/register?ref=Ac3KbS3F) · 官方订阅协助 → [GPTBuy](https://gptbuys.com/?ref=LIJUN) · 开发者 API → [ZeoAPI](https://www.zeoapi.com/register?aff=FM4J)
 以上均为第三方服务，与 OpenAI 无官方授权关系。使用前建议自行评估。
