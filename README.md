@@ -4,6 +4,7 @@
 
 搜"ChatGPT"会冒出一堆词：镜像站、中文版、官网、Plus、API。到底哪个是哪个？这篇用最短的篇幅把概念理清楚。
 
+- [2026-07-06 | 五家 AI 实验室首次统一安全标准——越狱评分要来了](posts/20260706-ai-labs-jailbreak-scoring-standard.md)
 - [2026-07-03｜用第三方入口体验 Codex，你的代码和数据安全吗](posts/20260703-codex-third-party-security.md)
 
 > 🌟 **我们整理的第三方入口（可作为参考）：**
